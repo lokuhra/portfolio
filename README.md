@@ -4,6 +4,6 @@ run => npm run dev / pnpm dev
 
 TO DO
 
-Testing
-Favicon
-Upgrade Readme
+-   Testing
+-   Favicon
+-   Upgrade Readme
